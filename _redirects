@@ -1,0 +1,34 @@
+# Redirect default Netlify subdomain to primary domain
+
+http://hatefacts.netlify.app/* https://www.hatefacts.com/:splat 301!
+https://hatefacts.netlify.app/* https://www.hatefacts.com/:splat 301!
+
+# Redirects for moved files
+
+/Behreandt.html  /Behreandt/index.html  301
+/cost-of-illegal-immigration.html  /cost-of-illegal-immigration/index.html  301
+/death-toll.html  /death-toll/index.html  301
+/e-verify.html  /e-verify/index.html  301
+/fbi-statistics.html  /fbi-statistics/index.html  301
+/illegal-alien.html  /illegal-alien/index.html  301
+/impact.html  /impact/index.html  301
+/its-the-law.html  /its-the-law/index.html  301
+/links.html  /links/index.html  301
+/nueva-america.html  /nueva-america/index.html  301
+/one-day.html  /one-day/index.html  301
+/quotes/videos.html  /videos/index.html  301
+/search.html  /search/index.html  301
+/terror-chronology.html  /terror-chronology/index.html  301
+/videos.html  /videos/index.html  301
+
+# Redirect site icons
+
+/android-chrome-192x192.png /_assets/siteicons/android-chrome-192x192.png 301
+/android-chrome-512x512.png /_assets/siteicons/android-chrome-512x512.png 301
+/apple-touch-icon.png /_assets/siteicons/apple-touch-icon.png 301
+/browserconfig.xml /_assets/siteicons/browserconfig.xml 301
+/favicon-16x16.png /_assets/siteicons/favicon-16x16.png 301
+/favicon-32x32.png /_assets/siteicons/favicon-32x32.png 301
+/favicon.ico /_assets/siteicons/favicon.ico 301
+/mstile-150x150.png /_assets/siteicons/mstile-150x150.png 301
+/site.webmanifest /_assets/siteicons/site.webmanifest 301

@@ -1,0 +1,35 @@
+/* CSS Document */
+body {
+  background-color: #9C8E85; }
+
+article {
+  background-image: url("/bfsp/_assets/img/RicinBackground.jpg");
+  font-family: Georgia, serif;
+  font-size: 18px; }
+
+nav {
+  margin-top: 1em; }
+
+h1 {
+  text-align: center; }
+
+h4 {
+  font-weight: bold; }
+
+figure, img {
+  padding-bottom: 1em; }
+
+figcaption {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px; }
+
+.livearea, nav {
+  background-color: white; }
+
+.pull-left {
+  padding-right: 1em; }
+
+.pull-right {
+  padding-left: 1em; }
+
+/*# sourceMappingURL=bfsp-min.css.map */
