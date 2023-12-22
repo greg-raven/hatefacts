@@ -1,7 +1,7 @@
-# Redirect default Netlify subdomain to primary domain
+# Redirect default subdomain to primary domain
 
-http://hatefacts.netlify.app/* https://www.hatefacts.com/:splat 301!
-https://hatefacts.netlify.app/* https://www.hatefacts.com/:splat 301!
+http://hatefacts.pages.dev/* https://www.hatefacts.com/:splat 301!
+https://hatefacts.pages.dev/* https://www.hatefacts.com/:splat 301!
 
 # Redirects for moved files
 
