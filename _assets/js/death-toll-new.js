@@ -1,5 +1,5 @@
 // Set the constants
-const theYear = 2023; // change only this number at the beginning of each year
+const theYear = 2024; // change only this number at the beginning of each year
 const deathsPerDay = 25; // the approximate number of deaths per day
 const monthArray = [
     "Jan",
